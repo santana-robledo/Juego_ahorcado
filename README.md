@@ -18,5 +18,4 @@ Proyecto desarrollado en Python que consiste en un juego del ahorcado. El progra
 Practicar los fundamentos de Python, incluyendo variables, listas, ciclos, condicionales, cadenas de texto y generación de valores aleatorios.
 
 ## Autor
-Josué Santana Robledo Corona
-GitHub: santana-robledo
+Santana Robledo
